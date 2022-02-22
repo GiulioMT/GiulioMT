@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @GiulioMT from 🇮🇹
+- 👀 I’m an Engineering student at KCL
+- 🌱 I’m currently learning MATLAB, Simulink and Arduino 
